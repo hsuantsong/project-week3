@@ -8,11 +8,13 @@
 
 .nav-list a {
   color: #fff;
+  padding: 0 32px;
 }
 
 .logo img {
   width: 80px;
   height: 49px;
+  padding: 12px 0;
 }
 
 .d-flex {
@@ -21,4 +23,8 @@
 
 .jcsb {
   justify-content: space-between;
+}
+
+.aic {
+  align-items: center;
 }
