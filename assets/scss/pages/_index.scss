@@ -1,9 +1,36 @@
-.index-title {
-  font-size: 100px;
-}
-
 .container {
   max-width: 1344px;
   margin: 0 auto;
   padding: 0 24px;
+}
+
+.banner {
+  background-image: url(/assets/images/home-header-banner.png);
+  background-size: auto 787px;
+  padding: 296px 0;
+}
+
+.banner-content {
+  text-align: right;
+}
+
+.banner-content h1,
+h2 {
+  color: #650300
+}
+
+.banner-content h2 {
+  font-weight: bold;
+}
+
+.btn {
+  background: #aa0601;
+  display: inline-block;
+  margin-top: 4px;
+}
+
+.btn a {
+  display: inline-block;
+  color: #fff;
+  padding: 6px 12px;
 }

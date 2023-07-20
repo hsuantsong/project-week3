@@ -135,7 +135,12 @@ a {
 }
 
 body {
+    line-height: 1.5;
+}
+
+* {
     box-sizing: border-box;
+    outline: 1px black solid;
 }
 
 img {
